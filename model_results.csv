@@ -1,0 +1,4 @@
+Model,ROC_AUC
+Logistic Regression,0.9998371921885743
+Random Forest,1.0
+XGBoost,1.0
